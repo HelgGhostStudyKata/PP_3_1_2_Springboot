@@ -1,4 +1,4 @@
-package web.controller;
+package com.example.pp_3_1_2_springboot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

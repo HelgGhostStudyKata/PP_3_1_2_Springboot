@@ -1,6 +1,6 @@
-package web.service;
+package com.example.pp_3_1_2_springboot.service;
 
-import web.model.User;
+import com.example.pp_3_1_2_springboot.model.User;
 
 import java.util.List;
 
